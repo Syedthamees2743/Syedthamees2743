@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋 I'm Syed Thameesudeen
 
-<!--
-**Syedthamees2743/Syedthamees2743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | React.js Enthusiast | Python Full Stack Intern
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building responsive and user-friendly web applications. Currently working as a Python Full Stack Intern and expanding my skills in full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+
+* React.js based web applications
+* Full Stack development with Python and Node.js
+* Real-time project development
+
+🌱 Currently learning:
+
+* Django
+* Express.js
+* MongoDB
+* Advanced React concepts
+
+👨‍💻 Projects:
+🚀 Stock Market Prediction & Tracker
+
+* React.js dashboard with stock trends and prediction visualization
+
+🚀 Foodie Zone
+
+* Food delivery web application using React.js
+
+🛠 Tech Stack:
+
+* Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+* Backend: Python, Django, Node.js, Express.js
+* Database: MongoDB, MySQL
+* Tools: Git, GitHub, VS Code, Postman
+
+📫 Reach me:
+Email: [thameessyed2743@gmail.com](mailto:thameessyed2743@gmail.com)
+LinkedIn: linkedin.com/in/syedthamees2743
+
+⚡ Fun Fact:
+I enjoy building real-world applications and continuously learning new technologies.
