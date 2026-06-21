@@ -1,41 +1,63 @@
-# Hi there 👋 I'm Syed Thameesudeen
+# Hi there 👋 I'm Syed Thamees
 
 💻 Frontend Developer | React.js Enthusiast | Python Full Stack Intern
 
-I'm a passionate developer focused on building responsive and user-friendly web applications. Currently working as a Python Full Stack Intern and expanding my skills in full-stack development.
+---
 
-🔭 Currently working on:
+## 👨‍💻 Who Am I?
 
-* React.js based web applications
-* Full Stack development with Python and Node.js
-* Real-time project development
+I'm a passionate developer who enjoys building responsive and user-friendly web applications. I love turning ideas into real projects and continuously improving my full-stack development skills.
 
-🌱 Currently learning:
+---
 
+## 🔭 What Am I Currently Working On?
+
+* Building real-world web applications
+* Learning Python Full Stack Development
+* Improving backend skills with Django, Node.js, and Express.js
+* Exploring modern web technologies
+
+---
+
+## 🛠 Tools & Technologies I Use
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Tailwind CSS
+
+### Backend
+
+* Python
 * Django
+* Node.js
 * Express.js
+
+### Database
+
 * MongoDB
-* Advanced React concepts
+* MySQL
 
-👨‍💻 Projects:
-🚀 Stock Market Prediction & Tracker
+### Tools
 
-* React.js dashboard with stock trends and prediction visualization
+* Git
+* GitHub
+* VS Code
+* Postman
 
-🚀 Foodie Zone
+---
 
-* Food delivery web application using React.js
+## 📫 How To Reach Me?
 
-🛠 Tech Stack:
+📧 Email: [thameessyed2743@gmail.com](mailto:thameessyed2743@gmail.com)
 
-* Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
-* Backend: Python, Django, Node.js, Express.js
-* Database: MongoDB, MySQL
-* Tools: Git, GitHub, VS Code, Postman
+💼 LinkedIn: linkedin.com/in/syedthamees2743
 
-📫 Reach me:
-Email: [thameessyed2743@gmail.com](mailto:thameessyed2743@gmail.com)
-LinkedIn: linkedin.com/in/syedthamees2743
+🌐 Portfolio: syedthamees.netlify.app
 
-⚡ Fun Fact:
-I enjoy building real-world applications and continuously learning new technologies.
+---
+
+⭐ *Always learning, building, and growing as a developer.*
