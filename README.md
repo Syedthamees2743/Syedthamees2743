@@ -247,7 +247,7 @@ goal:
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Syedthamees2743/Syedthamees2743/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 > Add the [GitHub Contribution Snake action](https://github.com/Platane/snk) to your repo to auto-generate this animation.
