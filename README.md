@@ -201,7 +201,7 @@ Academic project pairing a React dashboard with a Python prediction model.
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Syedthamees2743&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&ring_color=FFB000"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syedthamees2743&hide_border=true&background=0D1117&stroke=FFB000&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=Syedthamees2743&hide_border=true&background=0D1117&stroke=FFB000&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syedthamees2743&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=C9D1D9" width="48%"/>
 
