@@ -1,185 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=250&section=header&text=SYED%20THAMEESUDEEN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%7C%20Django%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=%3C%20SYED_THAMEESUDEEN%20/%3E&fontSize=36&fontColor=00FFC6&animation=twinkling&fontAlignY=55"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=00FFC6&background=0D1117FF&center=true&vCenter=true&width=700&height=50&lines=root%40portfolio%3A~%24+whoami;%3E+Python+%2F+Django+%2F+React+Developer;%3E+status%3A+ONLINE+%F0%9F%9F%A2;%3E+compiling+ideas+into+code..." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+React+Developer;Building+Full+Stack+Web+Applications;Developing+Secure+REST+APIs;Turning+Ideas+Into+Real+Products;Learning+and+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/EDUCATION-B.E.%20Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROLE-Python%20Full%20Stack%20Intern-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Tamil%20Nadu%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/syedthamees2743">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:thameessyed2743@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://syedthamees.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+![Status](https://img.shields.io/badge/STATUS-ACTIVELY__BUILDING-00FFC6?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/LOCATION-TAMIL__NADU%2C__INDIA-FF2E97?style=flat-square&labelColor=0D1117)
+![Role](https://img.shields.io/badge/ROLE-PYTHON__FULL__STACK__INTERN-FFD400?style=flat-square&labelColor=0D1117)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header"/>
+<br/>
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Syed Thameesudeen
-education: B.E. Computer Science
-role: Python Django Full Stack Developer
-current_role: Python Full Stack Intern @ Futura Lab
-
-focus:
-  - Python
-  - Django
-  - Django REST Framework
-  - React.js
-  - PostgreSQL
-
-mindset:
-  Learn → Build → Improve
+```
+┌──────────────────────────────────────────────────────────┐
+│  user@futura-lab:~$ cat about.txt                         │
+└──────────────────────────────────────────────────────────┘
 ```
 
-I am a **Python Django Full Stack Developer** passionate about building responsive and real-world web applications.
+```yaml
+> name          : Syed Thameesudeen
+> education     : B.E. Computer Science
+> title         : Python Django Full Stack Developer
+> currently     : Python Full Stack Intern @ Futura Lab
+> stack         : Python · Django · DRF · React.js · PostgreSQL
+> philosophy    : Learn --> Build --> Improve --> Repeat
+```
 
-Currently working as a **Python Full Stack Intern at Futura Lab**, gaining hands-on experience in Django, REST API development, React.js, PostgreSQL, authentication, and full-stack application development.
+I build **responsive, real-world web applications** end-to-end — from Django models and REST APIs to polished React front ends. Right now I'm deep in Django, DRF, React.js, PostgreSQL, JWT auth, and full-stack architecture as a Full Stack Intern at Futura Lab.
 
 <br/>
-
-## ⚡ Tech Stack
 
 <div align="center">
 
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js&theme=dark"/>
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark"/>
-
-<br/><br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=django,nodejs&theme=dark"/>
-
-<br/><br/>
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite&theme=dark"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,figma&theme=dark"/>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
+## ⚙️ &nbsp; TECH ARSENAL
 
 <table>
+<tr><td align="center" width="9999">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,django,nodejs,postgresql,mongodb,git,github,figma,vscode,postman&theme=dark&perline=6"/>
+
+</td></tr>
+</table>
+
+<img src="https://img.shields.io/badge/Python-00FFC6?style=for-the-badge&logo=python&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00FFC6"/>
+<img src="https://img.shields.io/badge/DRF-FF2E97?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFC6,100:FF2E97&height=3"/>
+
+## 📡 &nbsp; LIVE SYSTEM METRICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&icon_color=00FFC6&title_color=FF2E97&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FFC6&fire=FF2E97&currStreakLabel=00FFC6" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF2E97&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFC6&line=FF2E97&point=FFD400" height="170"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=TRANSMISSIONS+RECEIVED&color=00FFC6&style=flat-square&labelColor=0D1117"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,100:00FFC6&height=3"/>
+
+## 🗂️ &nbsp; DEPLOYED_PROJECTS.log
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Smart IT Service Desk
+```
+[ 01 ] SMART_IT_SERVICE_DESK
+```
+**Django Full Stack IT Service Desk & Asset Management System** — role-based access, end-to-end ticket workflow.
 
-A **Django Full Stack IT Service Desk and Asset Management System** with role-based access and complete ticket management workflow.
+- ✔ JWT Authentication
+- ✔ Admin / Employee / Technician Roles
+- ✔ Ticket Creation & Assignment
+- ✔ SLA Tracking & Status Management
+- ✔ Asset Management + Email Alerts
+- ✔ Dashboard Analytics + PDF Reports
 
-**Highlights**
-- JWT Authentication
-- Admin, Employee & Technician Roles
-- Ticket Creation & Assignment
-- SLA Tracking & Status Management
-- IT Asset Management
-- Email Notifications
-- FAQ / Knowledge Base
-- Dashboard Analytics
-- PDF Reports
-- React + Django REST API Integration
-
-`Python` `Django` `DRF` `React.js` `PostgreSQL` `JWT` `Axios` `Bootstrap`
+`Python` `Django` `DRF` `React` `PostgreSQL` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚆 Railway Reservation System
+```
+[ 02 ] RAILWAY_RESERVATION_SYSTEM
+```
+**Django Full Stack Railway Reservation Web App** for searching trains and managing bookings.
 
-A **Django Full Stack Railway Reservation Web Application** for searching trains and managing ticket reservations.
+- ✔ Registration & Login
+- ✔ Train Search Engine
+- ✔ Ticket Booking & Seat Reservation
+- ✔ Ticket Cancellation
+- ✔ Django ORM-driven, Responsive UI
 
-**Highlights**
-- User Registration & Login
-- Train Search
-- Ticket Booking
-- Seat Reservation
-- Ticket Cancellation
-- Django ORM
-- Responsive UI
-
-`Python` `Django` `SQLite` `HTML5` `CSS3` `Bootstrap` `JavaScript`
+`Python` `Django` `SQLite` `Bootstrap` `JS`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Stock Market Prediction & Tracker
+```
+[ 03 ] STOCK_MARKET_PREDICTOR
+```
+Academic project visualizing **stock trends, charts, and prediction results** via an interactive dashboard.
 
-An academic project focused on visualizing stock trends, charts, and prediction results through an interactive dashboard.
+- ✔ Stock Trend Visualization
+- ✔ Interactive React Dashboard
+- ✔ Python-based Prediction Model
 
-**Highlights**
-- Stock Trend Visualization
-- Interactive Dashboard
-- Charts & Prediction Results
-- React.js Frontend
-- Python-based Prediction Model
-
-`Python` `React.js` `JavaScript` `HTML5` `CSS3`
+`Python` `React.js` `JS` `HTML5` `CSS3`
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ More Coming Soon
+```
+[ 04 ] NEXT_BUILD.pending()
+```
+New full-stack builds shipping soon — Django, DRF, and React under active development.
 
-Actively building new full stack projects with Django, DRF, and React.
-
-Stay tuned — new repositories get added regularly as I keep learning and shipping.
+- ✔ More repos dropping regularly
+- ✔ Watch this space 👁️
 
 `Python` `Django` `React.js`
 
@@ -189,122 +150,65 @@ Stay tuned — new repositories get added regularly as I keep learning and shipp
 
 <br/>
 
-## 🧭 My Learning Journey
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFC6,100:FF2E97&height=3"/>
+
+## 🧬 &nbsp; EVOLUTION_PATH
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[Python] --> B[Web Development]
-    B --> C[Django]
-    C --> D[REST APIs]
-    D --> E[React.js]
-    E --> F[Database Management]
-    F --> G[Full Stack Projects]
-    G --> H[Professional Growth]
+`PYTHON` → `WEB DEV` → `DJANGO` → `REST APIs` → `REACT.JS` → `DATABASES` → `FULL STACK` → `PRO GROWTH`
 
-    style A fill:#4C1D95,stroke:#A78BFA,color:#fff
-    style B fill:#5B21B6,stroke:#A78BFA,color:#fff
-    style C fill:#6D28D9,stroke:#A78BFA,color:#fff
-    style D fill:#7C3AED,stroke:#A78BFA,color:#fff
-    style E fill:#8B5CF6,stroke:#A78BFA,color:#fff
-    style F fill:#9333EA,stroke:#A78BFA,color:#fff
-    style G fill:#A855F7,stroke:#A78BFA,color:#fff
-    style H fill:#C084FC,stroke:#A78BFA,color:#000
-```
-
-> **Learn → Build → Improve**
+**Learn → Build → Improve**
 
 </div>
 
 <br/>
 
-## 🎯 Current Focus
+## 🎯 &nbsp; CURRENT_PROCESSES
 
-```yaml
-learning:
-  - Advanced Django
-  - Django REST Framework
-  - React.js
-  - PostgreSQL
-
-building:
-  - Full Stack Web Applications
-  - REST API Based Applications
-
-exploring:
-  - JWT Authentication
-  - Role-Based Access Control
-  - Scalable Backend Development
-
-goal:
-  - Become a Strong Python Full Stack Developer
-  - Build Real-world Applications
+```diff
++ learning   : Advanced Django, DRF, React.js, PostgreSQL
++ building   : Full Stack Web Apps, REST API driven systems
++ exploring  : JWT Auth, Role-Based Access Control, Scalable Backends
++ goal       : Become a strong Python Full Stack Developer
 ```
 
 <br/>
 
-## 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,100:00FFC6&height=3"/>
+
+## 🐍 &nbsp; CONTRIBUTION_GRID.snake
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/Syedthamees2743/Syedthamees2743/output/github-contribution-grid-snake-dark.svg"/>
+
+*(setup steps below 👇)*
+
 </div>
-
-> - uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa.
 
 <br/>
 
-## 🤝 Connect With Me
-
 <div align="center">
+
+## 📫 &nbsp; OPEN_CONNECTION
 
 <a href="https://linkedin.com/in/syedthamees2743">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00FFC6?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
 </a>
 <a href="mailto:thameessyed2743@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://syedthamees.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FFD400?style=for-the-badge&logo=googlechrome&logoColor=0D1117"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💜 Keep Building. Keep Learning. Keep Growing.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00FFC6&center=true&vCenter=true&width=500&lines=%3E+connection_closed... ;%3E+see+you+in+the+next+commit+%F0%9F%92%BB" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:A78BFA&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
