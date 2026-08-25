@@ -1,250 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SYED%20THAMEESUDEEN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Django%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+  <!-- Typing SVG Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Syed+Thameesudeen;Python+Django+Full+Stack+Developer;React.js+%2B+DRF+%2B+PostgreSQL;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+React;Building+Full+Stack+Web+Applications;Developing+REST+APIs;Learning+and+Building+Every+Day" alt="Typing SVG" />
+  <p align="center">
+    <strong>B.E. Computer Science | Python Full Stack Intern @ Futura Labs</strong>
+  </p>
 
-<br/><br/>
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your_email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+  
+  <p><code>Learn</code> ➔ <code>Build</code> ➔ <code>Improve</code></p>
+</div>
 
-<img src="https://img.shields.io/badge/EDUCATION-B.E.%20Computer%20Science-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Python%20Django%20Full%20Stack-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Tamil%20Nadu%2C%20India-4C1D95?style=for-the-badge"/>
+---
 
-<br/><br/>
+### 👨‍💻 About Me
 
-<a href="https://linkedin.com/in/syedthamees2743">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- 💼 **Current Role:** Python Full Stack Intern at **Futura Labs**
+- 🎓 **Education:** Bachelor of Engineering in Computer Science
+- ⚡ **Core Expertise:** Building robust REST APIs with **Django REST Framework** & interactive user interfaces with **React.js**
+- 🎯 **Current Focus:** Scalable backend architectures, JWT authentication workflows, and Role-Based Access Control (RBAC)
+- 🚀 **Philosophy:** *Writing clean, maintainable code to solve real-world problems.*
 
-<a href="mailto:thameessyed2743@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://syedthamees.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> |
+| **Tools & Auth** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens"/> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/> |
 
 </div>
 
 ---
 
-## ■ About Me
+### 🚀 Featured Projects
 
-```yaml
-name: Syed Thameesudeen
-education: B.E. Computer Science
-role: Python Django Full Stack Developer
-current_role: Python Full Stack Intern @ Futura Lab
-
-focus:
-  - Python
-  - Django
-  - Django REST Framework
-  - React.js
-  - PostgreSQL
-
-mindset:
-  Learn → Build → Improve
-```
-
-I am a **Python Django Full Stack Developer** passionate about building responsive and real-world web applications.
-
-Currently working as a **Python Full Stack Intern at Futura Lab**, gaining hands-on experience in Django, REST API development, React.js, PostgreSQL, authentication, and full-stack application development.
-
----
-
-## ■■ Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,js"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🖥️ Smart IT Service Desk</h3>
+      <p>Enterprise IT Service Desk & Asset Management platform with complete ticket lifecycles and SLA automation.</p>
+      <ul>
+        <li><b>RBAC:</b> Multi-tier roles (Admin, Employee, Technician)</li>
+        <li><b>Auth:</b> Secure stateless JWT authentication</li>
+        <li><b>Features:</b> Dynamic SLA tracking, PDF exports, automated email notifications</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚆 Railway Reservation System</h3>
+      <p>Full-stack web application designed to manage and simulate complete train scheduling and passenger reservations.</p>
+      <ul>
+        <li><b>Core:</b> Train lookup, dynamic seat allocation, cancellation pipeline</li>
+        <li><b>Database:</b> Optimized query execution using Django ORM</li>
+        <li><b>UI:</b> Fully responsive, cross-device interface</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">📈 Stock Market Prediction & Tracker</h3>
+      <p>Interactive analytics dashboard visualizing real-time market movements paired with Python-driven trend prediction models.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Data_Viz-FF6F00?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ■ Featured Projects
-
-### 🚀 Smart IT Service Desk
-
-A **Django Full Stack IT Service Desk and Asset Management System** with role-based access and complete ticket management workflow.
-
-**Highlights:**
-
-* JWT Authentication
-* Admin, Employee & Technician Roles
-* Ticket Creation & Assignment
-* SLA Tracking & Status Management
-* IT Asset Management
-* Email Notifications
-* FAQ / Knowledge Base
-* Dashboard Analytics
-* PDF Reports
-* React + Django REST API Integration
-
-**Tech Stack:**
-
-`Python` `Django` `DRF` `React.js` `PostgreSQL` `JWT` `Axios` `Bootstrap` `CSS`
-
----
-
-### 🚆 Railway Reservation System
-
-A **Django Full Stack Railway Reservation Web Application** for searching trains and managing ticket reservations.
-
-**Highlights:**
-
-* User Registration & Login
-* Train Search
-* Ticket Booking
-* Seat Reservation
-* Ticket Cancellation
-* Django ORM
-* Responsive UI
-
-**Tech Stack:**
-
-`Python` `Django` `SQLite` `HTML5` `CSS3` `Bootstrap` `JavaScript`
-
----
-
-### 📈 Stock Market Prediction & Tracker
-
-An academic project focused on visualizing stock trends, charts, and prediction results through an interactive dashboard.
-
-**Highlights:**
-
-* Stock Trend Visualization
-* Interactive Dashboard
-* Charts & Prediction Results
-* React.js Frontend
-* Python-based Prediction Model
-
-**Tech Stack:**
-
-`Python` `React.js` `JavaScript` `HTML5` `CSS3`
-
----
-
-## ■ My Learning Journey
-
-```text
-Python
-   ↓
-Web Development
-   ↓
-Django
-   ↓
-REST APIs
-   ↓
-React.js
-   ↓
-Database Management
-   ↓
-Full Stack Projects
-   ↓
-Professional Growth
-```
-
-> Learn → Build → Improve
-
----
-
-## ■ Current Focus
-
-```yaml
-learning:
-  - Advanced Django
-  - Django REST Framework
-  - React.js
-  - PostgreSQL
-
-building:
-  - Full Stack Web Applications
-  - REST API Based Applications
-
-exploring:
-  - JWT Authentication
-  - Role-Based Access Control
-  - Scalable Backend Development
-
-goal:
-  - Become a Strong Python Full Stack Developer
-  - Build Real-world Applications
-```
-
----
-
-## ■ GitHub
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
-
-</div>
-
----
-
-## ■ Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/syedthamees2743">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:thameessyed2743@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://syedthamees.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-
-### ■ Keep Building. Keep Learning. Keep Growing.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Keep+Learning+%E2%9C%A8" alt="Footer Animation"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
+  <h3>⚡ <i>"Keep Building. Keep Learning. Keep Growing."</i></h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23&height=100&section=footer"/>
 </div>
